@@ -1,0 +1,78 @@
+/* ============================ */
+/* extra large device 1,082px */
+/* ============================ */
+@media (max-width: 67.625em) {
+}
+
+/* ============================ */
+/* large device 992px */
+/* ============================ */
+@media (max-width: 62em) {
+	.container {
+		max-width: 100%;
+		padding: 0 50px;
+	}
+
+	.find-nav {
+		flex-direction: column;
+		justify-content: start !important;
+		align-items: start !important;
+		gap: 30px;
+	}
+	.find-nav h3 {
+		font-size: 22px;
+		line-height: 32px;
+		letter-spacing: -0.0916667px;
+	}
+
+	.FooterTextArea {
+		flex-direction: column;
+		text-align: center;
+	}
+}
+
+/* ============================ */
+/* madium device 768px */
+/* ============================ */
+@media (max-width: 48em) {
+	.SectionHeading1 {
+		font-size: 36px;
+		line-height: 42px;
+		text-align: center;
+		padding-top: 60px;
+	}
+
+	.Sectionp {
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 21px;
+		text-align: center;
+		letter-spacing: -0.1px;
+	}
+
+	.topFooterSection {
+		height: auto;
+	}
+	.topFooterSection .btn {
+		width: 100%;
+	}
+}
+
+/* ============================ */
+/* small device 576px */
+/* ============================ */
+@media (max-width: 36em) {
+	.SectionHeading1 {
+		font-size: 28px;
+		line-height: 36px;
+		text-align: center;
+		padding-top: 50px;
+	}
+	.btns .btn {
+		padding: 10px 10px;
+	}
+	.container {
+		max-width: 100%;
+		padding: 0 20px;
+	}
+}

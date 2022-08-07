@@ -1,0 +1,8 @@
+this midle page: https://www.figma.com/file/Eryp267v44LfLdZ7R4GXGF/vehically?node-id=0%3A1003
+Design Same Just Change 2 section design:  
+1. Bule Area Mark New Design will be just blue component 
+2. Red Area Mark New Design will be just red component 
+
+3.Footer Area Chane the dollar sign & dark light mode icon & functionaliy
+
+4. english to chnage spanish lang 
